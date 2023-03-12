@@ -13,7 +13,7 @@ Bachelor of Engineering - Electrical Engineering
 ### SKILLS
 
 #### PROGRAMMING LANGUAGES
-[![](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
+[![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
 
 ### REFERENCES
 Operational Planning of a Hybrid Power Plant for Off-Grid Mining Site: A Risk-Contrained Optimization Approach
