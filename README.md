@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
+
+
