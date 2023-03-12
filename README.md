@@ -13,7 +13,7 @@ Bachelor of Engineering - Electrical Engineering
 ### SKILLS
 
 #### PROGRAMMING LANGUAGES
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
 ### REFERENCES
 Operational Planning of a Hybrid Power Plant for Off-Grid Mining Site: A Risk-Contrained Optimization Approach
