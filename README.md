@@ -13,7 +13,7 @@ Bachelor of Engineering - Electrical Engineering
 ### SKILLS
 
 #### PROGRAMMING LANGUAGES
-[![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)[![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)[![HTML Badge](https://img.shields.io/badge/HTML-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=)
+[![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![HTML Badge](https://img.shields.io/badge/HTML-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=)
 
 #### SOFTWARE AND TOOLS
 
