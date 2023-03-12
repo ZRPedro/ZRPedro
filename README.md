@@ -8,6 +8,8 @@ Bachelor of Engineering - Electrical Engineering
 
 ### EXPERIENCE
 
+ Jun 2021 - Present: High Voltage Electrical Engineer
+
 ### REFERENCES
 Operational Planning of a Hybrid Power Plant for Off-Grid Mining Site: A Risk-Contrained Optimization Approach
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-inactive?style=flat-square&logo=Researchgate)](
