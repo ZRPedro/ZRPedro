@@ -17,6 +17,8 @@ Bachelor of Engineering - Electrical Engineering
 
 [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
 
+[![HTML Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=)
+
 ### REFERENCES
 Operational Planning of a Hybrid Power Plant for Off-Grid Mining Site: A Risk-Contrained Optimization Approach
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=Researchgate&logoColor=white)](
