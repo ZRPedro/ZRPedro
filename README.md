@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
+[![Linkedin Badge](https://img.shields.io/badge/-pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-zulaicarey-pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
+[![Linkedin Badge](https://img.shields.io/badge/-zulaicareypedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
 
-<img src="https://img.shields.io/badge/"zulaica-rey"-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="zulaica-rey"/>
+<img src="https://img.shields.io/badge/zulaica-rey-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="zulaica-rey"/>
