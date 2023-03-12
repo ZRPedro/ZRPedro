@@ -14,7 +14,7 @@ Bachelor of Engineering - Electrical Engineering
 
 #### PROGRAMMING LANGUAGES
 [![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
-[![HTML Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=TeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
+[![HTML Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=TeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
 
 </a>
     <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
