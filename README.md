@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-zulaicarey-pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
