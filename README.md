@@ -9,7 +9,7 @@ Bachelor of Engineering - Electrical Engineering
 ### EXPERIENCE
 
 ### REFERENCES
-[![Researchgate](https://img.shields.io/badge/-zulaicareyDashpedro-blue?style=flat-square&logo=researchgate&logoColor=green&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach)
+[![Researchgate](https://img.shields.io/badge/-Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach-blue?style=flat-square&logo=researchgate&logoColor=green&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach)
 
 https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach
 
