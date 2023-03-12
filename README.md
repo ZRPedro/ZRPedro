@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zulaicarey-pedro-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulaicarey-pedro/)
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-@PedroZR-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
