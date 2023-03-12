@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zulaicareypedro-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulaicarey-pedro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zulaicarey-pedro-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulaicarey-pedro/)
 
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
