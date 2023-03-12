@@ -18,4 +18,4 @@ https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hyb
 
 ### CONTACT
 
-[![Linkedin Badge](https://img.shields.io/badge/-zulaicareyDashpedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/) [![Github Badge](https://img.shields.io/badge/-PedroZR-%23181717?style=flat-square&logo=github)](https://github.com/ZulaicaRey-Pedro)
+[![Linkedin Badge](https://img.shields.io/badge/-zulaicareypedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/) [![Github Badge](https://img.shields.io/badge/-PedroZR-%23181717?style=flat-square&logo=github)](https://github.com/ZulaicaRey-Pedro)
