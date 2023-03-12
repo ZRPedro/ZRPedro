@@ -9,8 +9,6 @@ Bachelor of Engineering - Electrical Engineering
 ### EXPERIENCE
 
 ### REFERENCES
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Researchgate&logo=researchgate&style=flat-square&url=https%3A%2F%2Fwww.researchgate.net%2F">
-
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-%23181717?style=flat-square&logo=Researchgate)](
 https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach)
 
