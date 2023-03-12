@@ -15,10 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-zulaicareypedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zulaicarey-pedro-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulaicarey-pedro/)
-
-[![](https://img.shields.io/badge/-@PedroZR-%23181717?style=flat-square&logo=github)](https://github.com/ZulaicaRey-Pedro)
+[![Linkedin Badge](https://img.shields.io/badge/-zulaicareypedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/) [![](https://img.shields.io/badge/-@PedroZR-%23181717?style=flat-square&logo=github)](https://github.com/ZulaicaRey-Pedro)
