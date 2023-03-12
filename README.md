@@ -2,7 +2,7 @@
 
 ### EDUCATION
 
-Master of Science - Energy Engineering - Electrical Power Systems and High Voltage Engineering
+Master of Science - Energy Engineering/Electrical Power Systems and High Voltage Engineering
 
 Bachelor of Engineering - Electrical Engineering
 
