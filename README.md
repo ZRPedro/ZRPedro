@@ -26,8 +26,8 @@ Bachelor of Engineering - Electrical Engineering
 </div>
 
 <tr>
-      <td><span style="font-weight: bold;color:#2f4f4f;">Phone:</span></th>
-      <td>+12 34 56 78 91</th>
+      <td><img src="/SoftwareLogos/PF Logo.png" width="50" height="50"></td>
+      <td><img src="/SoftwareLogos/PSCAD Logo.png" width="50" height="50"></td>
    </tr>
    <tr>
       <td><span style="font-weight: bold;color:#2f4f4f;">E-mail:</span></td>
