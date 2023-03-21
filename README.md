@@ -16,6 +16,16 @@ Bachelor of Engineering - Electrical Engineering
 [![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![HTML Badge](https://img.shields.io/badge/HTML-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=)
 
 #### SOFTWARE AND TOOLS
+<div class="row">
+  <div class="column">
+    <img src="/SoftwareLogos/PF Logo.png" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="/SoftwareLogos/PSCAD Logo.png" width="100" height="50">
+  </div>
+</div>
+
+
 <p><a href="https://www.digsilent.de/en/powerfactory.html">
 <img
   src="/SoftwareLogos/PF Logo.png"
