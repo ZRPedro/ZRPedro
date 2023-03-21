@@ -25,6 +25,14 @@ Bachelor of Engineering - Electrical Engineering
   </div>
 </div>
 
+<tr>
+      <td><span style="font-weight: bold;color:#2f4f4f;">Phone:</span></th>
+      <td>+12 34 56 78 91</th>
+   </tr>
+   <tr>
+      <td><span style="font-weight: bold;color:#2f4f4f;">E-mail:</span></td>
+      <td><a href="mailto:johndoe@gmail.com">johndoe@gmail.com</a></td>
+   </tr>
 
 <p><a href="https://www.digsilent.de/en/powerfactory.html">
 <img
