@@ -16,15 +16,11 @@ Bachelor of Engineering - Electrical Engineering
 [![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![HTML Badge](https://img.shields.io/badge/HTML-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=)
 
 #### SOFTWARE AND TOOLS
-![Test Image 5](SoftwareLogos/PF Logo.png)
-
-![My Image](PF Logo.png)
-
 <img
   src="/SoftwareLogos/PF Logo.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
 
 ### REFERENCES!
 
