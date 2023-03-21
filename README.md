@@ -1,21 +1,5 @@
 ### PEDRO ZULAICA REY
 
-<table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
-  </tr>
-</table>
-
-
 ### EDUCATION
 
 Master of Science - Energy Engineering/Electrical Power Systems and High Voltage Engineering
