@@ -21,7 +21,7 @@ Bachelor of Engineering - Electrical Engineering
     <img src="/SoftwareLogos/PF Logo.png" width="50" height="50">
   </div>
   <div class="column">
-    <img src="/SoftwareLogos/PSCAD Logo.png" width="100" height="50">
+    <img src="/SoftwareLogos/PSCAD Logo.png" width="50" height="50">
   </div>
 </div>
 
