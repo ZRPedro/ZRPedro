@@ -20,7 +20,7 @@ Bachelor of Engineering - Electrical Engineering
   src="/SoftwareLogos/PF Logo.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 150px">
+  style="display: inline-block; margin: 0 auto; max-width: 10px">
 
 ### REFERENCES!
 
