@@ -25,14 +25,12 @@ Bachelor of Engineering - Electrical Engineering
   </div>
 </div>
 
+<table class="tb" id="members" style="width:15%">
 <tr>
       <td><img src="/SoftwareLogos/PF Logo.png" width="50" height="50"></td>
       <td><img src="/SoftwareLogos/PSCAD Logo.png" width="50" height="50"></td>
-   </tr>
-   <tr>
-      <td><span style="font-weight: bold;color:#2f4f4f;">E-mail:</span></td>
-      <td><a href="mailto:johndoe@gmail.com">johndoe@gmail.com</a></td>
-   </tr>
+</tr>
+
 
 <p><a href="https://www.digsilent.de/en/powerfactory.html">
 <img
