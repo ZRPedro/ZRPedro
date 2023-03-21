@@ -19,6 +19,7 @@ Bachelor of Engineering - Electrical Engineering
 
 ### REFERENCES
 Operational Planning of a Hybrid Power Plant for Off-Grid Mining Site: A Risk-Contrained Optimization Approach
+
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=Researchgate&logoColor=white)](
 https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach)
 
