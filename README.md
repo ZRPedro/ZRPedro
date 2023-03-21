@@ -20,7 +20,10 @@ Bachelor of Engineering - Electrical Engineering
 
 ![My Image](PF Logo.png)
 
-### REFERENCES
+[PF Logo](https://user-images.githubusercontent.com/105058261/226555507-8a6f5dab-25d1-454a-935a-34afc180c4bf.png)
+
+### REFERENCES!
+
 Operational Planning of a Hybrid Power Plant for Off-Grid Mining Site: A Risk-Contrained Optimization Approach
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=Researchgate&logoColor=white)](
 https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach)
