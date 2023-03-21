@@ -14,7 +14,7 @@ Bachelor of Engineering - Electrical Engineering
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/ZulaicaRey-Pedro/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulaicaRey-Pedro&hide=TeX&layout=compact)
 
 
 #### PROGRAMMING LANGUAGES
