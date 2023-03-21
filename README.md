@@ -21,7 +21,7 @@ Bachelor of Engineering - Electrical Engineering
 ![My Image](PF Logo.png)
 
 <img
-  src="/PF Logo.png"
+  src="/SoftwareLogos/PF Logo.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
