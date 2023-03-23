@@ -10,7 +10,7 @@ A High Voltage engineer interested in the energy sector and electrical grid.
 
 # 3-EXPERIENCE
 
- Jun 2021 - Present: High Voltage Electrical Engineer
+[Jun 2021 - Present: High Voltage Electrical Engineer](https://eurowindenergy.com/)
  
 # 4-SKILLS
 
