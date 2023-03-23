@@ -56,7 +56,7 @@
 <a href="https://www.mathworks.com/products/matlab.html">
 <img
   src="/SoftwareLogos/Matlab Logo.png"
-  width="50" 
+  width="100" 
   height="50" />
 </a></p>
 
