@@ -2,7 +2,7 @@
 
 ### EDUCATION
 
-Master of Science - Energy Engineering/Electrical Power Systems and High Voltage Engineering
+[Master of Science - Energy Engineering/Electrical Power Systems and High Voltage Engineering](https://www.en.aau.dk/education/master/energy-engineering/electrical-power-systems-high-voltage-engineering)
 
 Bachelor of Engineering - Electrical Engineering
 
