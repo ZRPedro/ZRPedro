@@ -21,7 +21,7 @@
 
 ## SOFTWARE AND TOOLS
 
-### POWER SYSTEMS
+### Power Systems
 <p><a href="https://www.digsilent.de/en/powerfactory.html">
 <img
   src="/SoftwareLogos/PF Logo.png"
@@ -42,15 +42,15 @@
 </a></p>
 
 ### Integrated Development Environment (IDE)
-<p><a href="https://www.digsilent.de/en/powerfactory.html">
+<p><a href="https://code.visualstudio.com/">
 <img
-  src="/SoftwareLogos/PF Logo.png"
+  src="/SoftwareLogos/VSCode Logo.png"
   width="50" 
   height="50" />
  </a>
-<a href="https://www.microsoft.com/en/microsoft-365/excel">
+<a href="https://www.spyder-ide.org/">
 <img
-  src="/SoftwareLogos/MS Excel.png"
+  src="/SoftwareLogos/Spyder Logo.png"
   width="50" 
   height="50" />
 </a></p>
