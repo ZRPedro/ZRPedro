@@ -20,6 +20,8 @@
 
 
 ## SOFTWARE AND TOOLS
+
+### POWER SYSTEMS
 <p><a href="https://www.digsilent.de/en/powerfactory.html">
 <img
   src="/SoftwareLogos/PF Logo.png"
@@ -32,6 +34,20 @@
   width="100" 
   height="50" />
 </a>
+<a href="https://www.microsoft.com/en/microsoft-365/excel">
+<img
+  src="/SoftwareLogos/MS Excel.png"
+  width="50" 
+  height="50" />
+</a></p>
+
+### Integrated Development Environment (IDE)
+<p><a href="https://www.digsilent.de/en/powerfactory.html">
+<img
+  src="/SoftwareLogos/PF Logo.png"
+  width="50" 
+  height="50" />
+ </a>
 <a href="https://www.microsoft.com/en/microsoft-365/excel">
 <img
   src="/SoftwareLogos/MS Excel.png"
