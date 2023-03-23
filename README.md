@@ -26,48 +26,48 @@ A High Voltage engineer interested in the energy sector and electrical grid.
 <p><a href="https://www.digsilent.de/en/powerfactory.html">
 <img
   src="/SoftwareLogos/PF Logo.png"
-  width="50" 
-  height="50" />
+  width="40" 
+  height="40" />
  </a>
 <a href="https://www.pscad.com/">
 <img
   src="/SoftwareLogos/PSCAD Logo.png"
-  width="100" 
-  height="50" />
+  width="80" 
+  height="40" />
 </a></p>
 
 ### Integrated Development Environment (IDE)
 <p><a href="https://code.visualstudio.com/">
 <img
   src="/SoftwareLogos/VSCode Logo.png"
-  width="50" 
-  height="50" />
+  width="40" 
+  height="40" />
  </a>
 <a href="https://www.spyder-ide.org/">
 <img
   src="/SoftwareLogos/Spyder Logo.png"
-  width="100" 
-  height="50" />
+  width="80" 
+  height="40" />
 </a>
 <a href="https://www.mathworks.com/products/matlab.html">
 <img
   src="/SoftwareLogos/Matlab Logo.png"
-  width="100" 
-  height="50" />
+  width="80" 
+  height="40" />
 </a></p>
 
 ### Others
 <p><a href="https://www.texstudio.org/">
 <img
   src="/SoftwareLogos/TexStudio Logo.png"
-  width="50" 
-  height="50" />
+  width="40" 
+  height="40" />
 </a>
 <a href="https://www.microsoft.com/en/microsoft-365/excel">
 <img
   src="/SoftwareLogos/MS Excel.png"
-  width="50" 
-  height="50" />
+  width="40" 
+  height="40" />
 </a></p>
 
 # 5-REFERENCES
