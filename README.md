@@ -51,7 +51,7 @@
 <a href="https://www.spyder-ide.org/">
 <img
   src="/SoftwareLogos/Spyder Logo.png"
-  width="100" 
+  width="200" 
   height="50" />
 </a></p>
 
