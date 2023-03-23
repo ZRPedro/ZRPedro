@@ -1,5 +1,7 @@
 # 1-PEDRO ZULAICA REY
 
+A High Voltage engineer interested in the energy sector and electrical grid.
+
 # 2-EDUCATION
 
 [Master of Science - Energy Engineering/Electrical Power Systems and High Voltage Engineering](https://www.en.aau.dk/education/master/energy-engineering/electrical-power-systems-high-voltage-engineering)
