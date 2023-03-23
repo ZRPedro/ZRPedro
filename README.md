@@ -1,16 +1,16 @@
-### PEDRO ZULAICA REY
+## PEDRO ZULAICA REY
 
-### EDUCATION
+## EDUCATION
 
 [Master of Science - Energy Engineering/Electrical Power Systems and High Voltage Engineering](https://www.en.aau.dk/education/master/energy-engineering/electrical-power-systems-high-voltage-engineering)
 
 [Bachelor of Engineering - Electrical Engineering](https://en.unav.edu/web/degree-in-electrical-engineering/study-program)
 
-### EXPERIENCE
+## EXPERIENCE
 
  Jun 2021 - Present: High Voltage Electrical Engineer
  
-### SKILLS
+## SKILLS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRPedro&hide=TeX&layout=compact)
 
@@ -32,10 +32,10 @@
   height="50" />
 </a></p>
 
-### REFERENCES
+## REFERENCES
 [Operational Planning of a Hybrid Power Plant for Off-Grid Mining Site: A Risk-Contrained Optimization Approach](https://www.researchgate.net/publication/346017344_Operational_Planning_of_a_Hybrid_Power_Plant_for_Off-Grid_Mining_Site_A_Risk-Contrained_Optimization_Approach)
 
-### CONTACT
+## CONTACT
 
 [![Linkedin Badge](https://img.shields.io/badge/-zulaicareypedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulaicarey-pedro/)](https://www.linkedin.com/in/zulaicarey-pedro/) [![Github Badge](https://img.shields.io/badge/-PedroZR-%23181717?style=flat-square&logo=github)](https://github.com/ZRPedro) [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=Researchgate&logoColor=white)](
 https://www.researchgate.net/profile/Pedro-Zulaica-Rey)
