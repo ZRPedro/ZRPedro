@@ -12,7 +12,7 @@ Bachelor of Engineering - Electrical Engineering
  
 ### SKILLS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulaicaRey-Pedro&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRPedro&hide=TeX&layout=compact)
 
 
 #### PROGRAMMING LANGUAGES
