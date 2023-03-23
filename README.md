@@ -1,12 +1,12 @@
-## PEDRO ZULAICA REY
+# PEDRO ZULAICA REY
 
-## EDUCATION
+# EDUCATION
 
 [Master of Science - Energy Engineering/Electrical Power Systems and High Voltage Engineering](https://www.en.aau.dk/education/master/energy-engineering/electrical-power-systems-high-voltage-engineering)
 
 [Bachelor of Engineering - Electrical Engineering](https://en.unav.edu/web/degree-in-electrical-engineering/study-program)
 
-## EXPERIENCE
+# EXPERIENCE
 
  Jun 2021 - Present: High Voltage Electrical Engineer
  
