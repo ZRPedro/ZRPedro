@@ -32,12 +32,6 @@
   src="/SoftwareLogos/PSCAD Logo.png"
   width="100" 
   height="50" />
-</a>
-<a href="https://www.microsoft.com/en/microsoft-365/excel">
-<img
-  src="/SoftwareLogos/MS Excel.png"
-  width="50" 
-  height="50" />
 </a></p>
 
 ### Integrated Development Environment (IDE)
@@ -64,6 +58,12 @@
 <p><a href="https://www.texstudio.org/">
 <img
   src="/SoftwareLogos/TexStudio Logo.png"
+  width="50" 
+  height="50" />
+</a>
+<a href="https://www.microsoft.com/en/microsoft-365/excel">
+<img
+  src="/SoftwareLogos/MS Excel.png"
   width="50" 
   height="50" />
 </a></p>
