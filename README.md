@@ -25,7 +25,7 @@ High Level: I use this languages at least every week in my profession.
 Intermediate Level: I have used this languages in the past for my profession but currently dont work much on them. 
 Hobby Level: I use this languages only on my free time as a hobby, I have never used them in a professional way.
 
- Markup : * Bullet list
+ * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
