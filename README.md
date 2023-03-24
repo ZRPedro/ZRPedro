@@ -21,9 +21,9 @@ A High Voltage engineer interested in the energy sector and electrical grid.
 
 The progarmming languages are divided in three sections. 
 
-* High Level: I use this languages at least every week in my profession. 
-* Intermediate Level: I have used this languages in the past for my profession but currently dont work much on them. 
-* Hobby Level: I use this languages only on my free time as a hobby, I have never used them in a professional way.
+🥇 High Level: I use this languages at least every week in my profession. 
+🥈 Intermediate Level: I have used this languages in the past for my profession but currently dont work much on them. 
+:3rd_place_medal: Hobby Level: I use this languages only on my free time as a hobby, I have never used them in a professional way.
 
 ### High Level
 [![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)  [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
