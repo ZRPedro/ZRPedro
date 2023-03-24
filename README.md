@@ -29,6 +29,7 @@ Hobby Level: I use this languages only on my free time as a hobby, I have never 
 
 
 ### :1st_place_medal: High Level
+I use this languages at least every week in my profession. 
 [![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)  [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
 
 ### :2nd_place_medal: Intermediate Level
