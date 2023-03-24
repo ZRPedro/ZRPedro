@@ -25,11 +25,6 @@ The progarmming languages are divided in three sections.
 * Intermediate Level: I have used this languages in the past for my profession but currently dont work much on them. 
 * Hobby Level: I use this languages only on my free time as a hobby, I have never used them in a professional way.
 
- * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
 ### High Level
 [![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)  [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=)
 
