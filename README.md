@@ -18,6 +18,12 @@ A High Voltage engineer interested in the energy sector and electrical grid.
 
 
 ## 4.1-PROGRAMMING LANGUAGES
+
+### High Level
+
+### Intermediate Level
+
+### Hobby Level
 [![Python Badge](https://img.shields.io/badge/Python-inactive?style=flat&logo=python)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![Latex Badge](https://img.shields.io/badge/LaTeX-inactive?style=flat&logo=LaTeX)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=python&sort=) [![HTML Badge](https://img.shields.io/badge/HTML-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=) [![VBA Badge](https://img.shields.io/badge/VBA-inactive?style=flat&logo=vba)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=vba&sort=) [![C++](https://img.shields.io/badge/C++-inactive?style=flat&logo=C%2B%2B)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=c++&sort=)
 
 ## 4.2-SOFTWARE AND TOOLS
