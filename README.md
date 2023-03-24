@@ -20,8 +20,11 @@ A High Voltage engineer interested in the energy sector and electrical grid.
 ## 4.1-PROGRAMMING LANGUAGES
 
 The progarmming languages are divided in three sections. 
+
 High Level: I use this languages at least every week in my profession. 
-Intermediate Levele: I have used this languages in the past for my profession but currently dont work much on them. 
+
+Intermediate Level: I have used this languages in the past for my profession but currently dont work much on them. 
+
 Hobby Level: I use this languages only on my free time as a hobby, I have never used them in a professional way.
 
 ### High Level
