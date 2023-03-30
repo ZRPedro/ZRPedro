@@ -32,7 +32,7 @@ I have used this languages in the past for my profession but currently dont work
 ### :3rd_place_medal: Hobby Level
 I use this languages only on my free time as a hobby, I have never used them in a professional way.
 
-[![HTML Badge](https://img.shields.io/badge/HTML-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=) [![CSS Badge](https://img.shields.io/badge/CSS-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=CSS&sort=)  
+[![HTML Badge](https://img.shields.io/badge/HTML-inactive?style=flat&logo=HTML5)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=html&sort=) [![CSS Badge](https://img.shields.io/badge/CSS-inactive?style=flat&logo=CSS3)](https://github.com/ZulaicaRey-Pedro?tab=repositories&q=&type=&language=CSS&sort=)  
 
 ## 4.2-SOFTWARE AND TOOLS
 
